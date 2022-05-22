@@ -1,15 +1,4 @@
-/*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
- * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
- *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
- *                  (____/ 
- * OSOYOO SG90 servo steering robot car Lesson 2
- * Tutorial URL https://osoyoo.com/?p=37134
- * CopyRight www.osoyoo.com
 
- *   
- * 
- */
 #include <PWMServo.h>
 #include <SoftwareSerial.h>
 SoftwareSerial BLTSerial(11, 4);  //RX,TX
